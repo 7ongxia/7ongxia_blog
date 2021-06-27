@@ -46,7 +46,31 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
     # And you can even create generic menu
+    
     [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+
+    [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
     url        = "/posts"
+
+    [[menu.main]]
+    identifier = "journal"
+    name       = "Journal"
+    url        = "/journals"
+
+    [[params.social]]
+    name = "email"
+    url = "7ongxia@gmail.com"
+
+    [[params.social]]
+    name = "github"
+    url = "https://github.com/7ongxia"
+    
+    [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/jon-gha/"
+    
