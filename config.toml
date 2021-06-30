@@ -3,6 +3,7 @@ title        = "Jong Kim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+disqusShortname = "Jong"
 
 [params]
     dateform        = "Jan 2, 2006"
@@ -20,9 +21,9 @@ paginate     = 10
     enableSharingButtons = false
 
     # Metadata mostly used in document's head
-    description = "My Dev blog"
+    description = "Jong's blog"
     keywords = "homepage, blog, dev"
-    images = [""]
+    images = ["/7ong.jpeg"]
 
 [taxonomies]
     category = "blog"
@@ -50,7 +51,7 @@ paginate     = 10
     [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about"
+    url        = "about"
 
     [[menu.main]]
     identifier = "posts"
@@ -58,8 +59,8 @@ paginate     = 10
     url        = "/posts"
 
     [[menu.main]]
-    identifier = "journal"
-    name       = "Journal"
+    identifier = "journals"
+    name       = "Journals"
     url        = "/journals"
 
     [[params.social]]
@@ -73,4 +74,3 @@ paginate     = 10
     [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/jon-gha/"
-    
