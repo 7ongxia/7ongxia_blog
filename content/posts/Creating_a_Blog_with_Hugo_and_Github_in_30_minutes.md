@@ -10,9 +10,6 @@ tags:
 ---
 
 
-markdown
-shortcode
-
 You can start your own blog by using Hugo and Github in 30 minutes. 
 Hugo is one of the world’s fastest framework for building websites.
 This quick start uses macOS in the examples. 
@@ -231,3 +228,18 @@ jobs:
           publish_branch: main
           publish_dir: ./public
 ```
+
+---
+
+**Congratulations!**
+
+Now you can write some posts locally and simply publish your contents in a minute. `Github Action` will automatically deploy your site when you push to your repository.
+
+Thank you for reading!
+
+
+## Useful websites
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax#links)
+
+[Shortcodes](https://gohugo.io/content-management/shortcodes/)
