@@ -14,9 +14,9 @@ draft: false
 
 --
 
-I've been working as a backend developer and a cloud engineer for extensive period. 
-I have journals full of random thoughts which are mostly in Korean.
-During my free time, I enjoy running, playing my bass guitar and learning new topics.
+I've been working as a backend developer and a cloud engineer for few years. 
+I also have journals full of random thoughts which are mostly in Korean.
+In my free time, I enjoy running, playing my bass guitar and learning new topics.
 
 I am practicing English by writing on this blog, so please support me even if my writing is a bit awkward! 🙏
 
