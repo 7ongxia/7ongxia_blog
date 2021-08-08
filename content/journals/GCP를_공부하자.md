@@ -1,5 +1,5 @@
 ---
-title: "GCP를_공부하자"
+title: "GCP를 공부하자"
 date: 2021-08-08T16:45:02+08:00
 draft: false
 ---
