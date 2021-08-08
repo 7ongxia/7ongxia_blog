@@ -1,7 +1,7 @@
 ---
 title: "GCP를_공부하자"
 date: 2021-08-08T16:45:02+08:00
-draft: true
+draft: false
 ---
 
 올해 안으로 GCP 자격증을 딸 계획이다.
